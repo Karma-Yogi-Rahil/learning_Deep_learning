@@ -93,3 +93,17 @@ print(sorted(cars))
 print(sorted(cars,reverse=True))
 new = f'{cars.sort()}'
 print(new)
+
+#try it yourself
+print('=---------------------------- Try it your self -----------------------------')
+locations = ['Ireland', 'kashi', 'vridhavan', 'uk','NOrth poal']
+print(locations)
+print(sorted(locations))
+print(locations)
+print(sorted(locations, reverse=True))
+locations.reverse()
+print(locations)
+locations.reverse()
+print(locations)
+print('q.3-9')
+print(len(guest_list))
