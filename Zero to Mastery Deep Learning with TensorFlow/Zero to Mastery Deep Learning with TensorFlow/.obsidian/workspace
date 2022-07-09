@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9e47e683654a532f",
+    "type": "split",
+    "children": [
+      {
+        "id": "41cb883d9436fe59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Artificial neural network.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1051274a9028594a",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ec798a8b97ec38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb6157cbb0218dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "457302d0f01bfe09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d7c1cc8a0ddcf32",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7b6a105bd709c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c7058043e971b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Artificial neural network.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41cb883d9436fe59",
+  "lastOpenFiles": [
+    "Artificial neural network.md",
+    "Deep Learning Intro.md",
+    "Machine learning.md"
+  ]
+}
